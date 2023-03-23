@@ -1,0 +1,4 @@
+e_details/__pycache__
+e_details/migrations/
+organisation/__pycache__/
+db.sqlite3
